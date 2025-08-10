@@ -1,0 +1,26 @@
+[ 
+    { 
+        "title": "Math Lecture",
+        "time": "45 seconds",
+        "thumbnail": "embed/math.jpg",
+        "videoUrl": "assets/videoplayback.mp4"
+    },
+    { 
+        "title": "Physics Lecture",
+        "time": "55 seconds",
+        "thumbnail": "embed/physics.jpg",
+        "videoUrl": "assets/videoplayback1.mp4"
+    },
+    { 
+        "title": "Chemistry Lecture",
+        "time": "20 mins 20 seconds",
+        "thumbnail": "embed/chemistry.jpg",
+        "videoUrl": "assets/videoplayback2.mp4"
+    },
+    { 
+        "title": "Biology Lecture",
+        "time": "20 mins 20 seconds",
+        "thumbnail": "embed/biology.jpg",
+        "videoUrl": "assets/videoplayback3.mp4"
+    }
+]

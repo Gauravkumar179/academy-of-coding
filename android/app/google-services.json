@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899877293428",
+    "project_id": "academyofccoding",
+    "storage_bucket": "academyofccoding.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899877293428:android:2de0888f21a13e753eb021",
+        "android_client_info": {
+          "package_name": "com.example.academy_of_coding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4vkFqyTBxik4Ep4DWogkFbi0HFxYE7O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

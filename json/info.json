@@ -1,0 +1,34 @@
+[ 
+    {
+        "title":"Physics",
+        "img":"assets/OIP.jpg"
+    },
+    {
+        "title":"Chemistry",
+        "img":"assets/chemist.jpg"
+    },
+    {
+        "title":"Mathematics",
+        "img":"assets/maths.jpg"
+    },
+    {
+        "title":"Biology",
+        "img":"assets/mbio.jpg"
+    },
+    {
+        "title":"Computer",
+        "img":"assets/computer.jpg"
+    },
+    {
+        "title":"General knowledge",
+        "img":"assets/gk.jpg"
+    },
+    {
+        "title":"English",
+        "img":"assets/english.jpg"
+    },
+    {
+        "title":"Social Science",
+        "img":"assets/sst.jpg"
+    }
+]
