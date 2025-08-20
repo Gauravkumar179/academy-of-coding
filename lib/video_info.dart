@@ -24,7 +24,7 @@ class VideoInfoState extends State<VideoInfo> {
   bool _disposed = false;
   int _isPlayingIndex = -1;
   VideoPlayerController? _controller;
-  _initData() async {
+  Future<void> _initData() async {
     await DefaultAssetBundle.of(context).loadString("json/videoinfo.json").then(
       (value) {
         setState(() {
@@ -468,7 +468,7 @@ class VideoInfoState extends State<VideoInfo> {
     _isPlaying = playing;
   }
 
-  _initializeVideo(int index) async {
+  Future<void> _initializeVideo(int index) async {
     final controller = VideoPlayerController.asset(
       videoInfo[index]["videoUrl"],
     );

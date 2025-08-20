@@ -17,7 +17,7 @@ class HomePage extends StatefulWidget {
 class HomePageState extends State<HomePage> {
   List info = [];
   int _selectedIndex = 0;
-  _initData() {
+  void _initData() {
     DefaultAssetBundle.of(context).loadString("json/info.json").then((value) {
       setState(() {
         info = json.decode(value);

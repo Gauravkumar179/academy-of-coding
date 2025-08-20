@@ -5,8 +5,6 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 // Import your pages
-import 'package:academy_of_coding/home_page.dart';
-
 // Optional: import firebase_options if using flutterfire configure
 // import 'firebase_options.dart';
 
